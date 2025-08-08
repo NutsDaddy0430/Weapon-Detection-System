@@ -36,11 +36,11 @@ cd weapon-detection-system
 ### 2. Install Dependencies
 
 Use a virtual environment (recommended) and install:
-
+```bash
 pip install -r requirements.txt
-
+```
 ### 3. Run the Script
-
+```bash
 python main.py
-
+```
 Press q to quit the camera feed.
